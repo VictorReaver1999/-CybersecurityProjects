@@ -1,4 +1,4 @@
-# -CybersecurityProjects-Scanners-
+# -CybersecurityProjects
 
 This public repo is for my cybersecurity projects and code snippets
 This is more of a hobby, so don't expect grandiose things
